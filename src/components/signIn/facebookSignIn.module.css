@@ -1,0 +1,40 @@
+.facebookButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    width: 220px;
+    height: 36px;
+    font-size: 16px;
+    font-weight: 350;
+    text-align: center;
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffffff;
+    border: 1px solid #a0a1a3;
+    border-radius: 1px;
+    cursor: pointer;
+}
+.facebookButton:hover {
+    background-color: #ebebeb;
+    border-color: #b3b3b3;
+}
+  
+.facebookButton:active {
+    background-color: #ebebeb;
+    border-color: #b3b3b3;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+}
+  
+.facebookButton[disabled] {
+    opacity: 0.6;
+    cursor: default;
+}
+.faceBookButton_icon {
+    background: url(https://www.facebook.com/images/fb_icon_325x325.png) no-repeat;
+    background-size: 18px 18px;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+}

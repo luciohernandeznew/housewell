@@ -1,0 +1,42 @@
+.googleButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    width: 220px;
+    height: 36px;
+    font-size: 16px;
+    font-weight: 350;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffffff;
+    border: 1px solid #a0a1a3;
+    border-radius: 1px;
+    cursor: pointer;
+  }
+  
+  .googleButton:hover {
+    background-color: #ebebeb;
+    border-color: #b3b3b3;
+  }
+  
+  .googleButton:active {
+    background-color: #ebebeb;
+    border-color: #b3b3b3;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  .googleButton[disabled] {
+    opacity: 0.6;
+    cursor: default;
+  }
+  .googleButton_icon {
+    background: url(https://www.gstatic.com/firebasejs/ui/2.0.0/images/auth/google.svg) no-repeat;
+    background-size: 18px 18px;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+  }
+  

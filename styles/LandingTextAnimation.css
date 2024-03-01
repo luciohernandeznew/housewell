@@ -1,0 +1,29 @@
+span.orange {
+    position: absolute;
+    width: 0;
+    height: 100%;
+    /* color: #E0650D !important; */
+    left: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+span.black {
+    position: absolute;
+    width: 0;
+    height: 100%;
+    /* color: #331501 !important; */
+    left: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.paragragh div {
+    display: inline-block;
+    position: relative;
+}
+
+/* [data-scrollbar] {
+    min-width: 100vw;
+    height: 100vh;
+} */

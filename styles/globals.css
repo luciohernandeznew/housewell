@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+
+.main {
+    background: #1e1e1e;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: "Austin News Deck";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local("AustinNewsDeck"), local("AustinNewsDeck"),
+        url("/fonts/AustinNewsDeck-Light.woff2") format("woff2"),
+        url("/fonts/AustinNewsDeck-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Mint Grotesk Light";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local("MintGrotesk"), local("MintGrotesk"),
+        url("/fonts/MintGrotesk-Light.woff2") format("woff2"),
+        url("/fonts/MintGrotesk-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Mint Grotesk";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("MintGrotesk"), local("MintGrotesk"),
+        url("/fonts/MintGrotesk-Regular.woff2") format("woff2"),
+        url("/fonts/MintGrotesk-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Mint Grotesk Medium";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local("MintGrotesk"), local("MintGrotesk"),
+        url("/fonts/MintGrotesk-Medium.woff2") format("woff2"),
+        url("/fonts/MintGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Mint Grotesk Bold";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local("MintGrotesk"), local("MintGrotesk"),
+        url("/fonts/MintGrotesk-Bold.woff2") format("woff2"),
+        url("/fonts/MintGrotesk-Bold.woff") format("woff");
+}
+
+/* Override default Swiper arrow styles */
+.swiper-button-prev,
+.swiper-button-next {
+    width: 20px;
+    height: 100%;
+    background-size: 20px 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.swiper-button-prev {
+    background-image: url("/icon_svg/arrowleft.svg");
+}
+
+.swiper-button-next {
+    background-image: url("/icon_svg/arrowright.svg");
+}
+
+/* Hide default Swiper arrow content */
+.swiper-button-prev::after,
+.swiper-button-next::after {
+    display: none;
+}
+
+.mapboxgl-popup {
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+    width: 200px;
+    padding: 0 !important;
+}
+
+.mapboxgl-popup-content {
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+    width: 200px;
+    padding: 0 !important;
+}
+
+.map-popup {
+    border-top-right-radius: 10px !important;
+    border-top-left-radius: 10px !important;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 !important;
+}
+
+.map-popup img {
+    border-top-right-radius: 10px !important;
+    width: 200px;
+    border-top-left-radius: 10px !important;
+}
+
+.map-popup p {
+    font-family: "Mint Grotesk";
+    text-align: center;
+    width: 200px;
+    font-size: 14px;
+    color: #1b311c;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.stroke-text {
+    color: transparent;
+    -webkit-text-stroke: #274b29;
+    -webkit-text-stroke-width: 1px;
+}

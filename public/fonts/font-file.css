@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mint Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('MintGrotesk'), local('MintGrotesk'),
+         url('/fonts/MintGrotesk-Regular.woff2') format('woff2'),
+         url('/fonts/MintGrotesk-Regular.woff') format('woff');
+}

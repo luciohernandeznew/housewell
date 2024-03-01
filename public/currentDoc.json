@@ -1,0 +1,4314 @@
+{
+    "1": {
+      "7af3edf8-a965-49c6-bc60-71853895c5f7": {
+        "name": "sellerDisclosureLetter",
+        "fontSize": 16,
+        "isCheckbox": false,
+        "position": {
+          "x": 310,
+          "y": -749
+        },
+        "pdfPosition": {
+          "x": 310,
+          "y": 733
+        },
+        "width": 51,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0d78c911-a8a7-49a8-b863-e6625a26a4c7": {
+        "name": "propertyVacantCheckboxNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 504,
+          "y": -371
+        },
+        "pdfPosition": {
+          "x": 504,
+          "y": 361
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "df13a55a-cdcf-434d-8713-4a927eae32bc": {
+        "name": "propertyVacantCheckboxYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 543,
+          "y": -371
+        },
+        "pdfPosition": {
+          "x": 543,
+          "y": 361
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e3b8786c-74d9-4727-beec-c4aac409bdd1": {
+        "name": "propertyLeasedCheckboxYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 504,
+          "y": -341
+        },
+        "pdfPosition": {
+          "x": 504,
+          "y": 331
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "18165b1a-30d9-4a67-969c-6e26080498b3": {
+        "name": "propertyLeasedCheckboxNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 543,
+          "y": -341
+        },
+        "pdfPosition": {
+          "x": 543,
+          "y": 331
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4ffed8e6-e291-4cbc-9e54-076b1a9bba75": {
+        "name": "historicDistricCheckboxYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 504,
+          "y": -323
+        },
+        "pdfPosition": {
+          "x": 504,
+          "y": 313
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "775059be-3646-4dda-a93b-28db83e0cf00": {
+        "name": "historicDistricCheckboxNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 543,
+          "y": -323
+        },
+        "pdfPosition": {
+          "x": 543,
+          "y": 313
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fea6df9e-ac22-457f-90a5-ec1f0352acb1": {
+        "name": "cc&rCheckboxYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 501,
+          "y": -234
+        },
+        "pdfPosition": {
+          "x": 501,
+          "y": 224
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "88b95c1f-4088-4ca3-88ad-01a2a60e14d0": {
+        "name": "cc&rCheckboxNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -235
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 225
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3955128b-065e-4ff4-b356-0efbb89097b9": {
+        "name": "hoaCheckboxYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 501,
+          "y": -206
+        },
+        "pdfPosition": {
+          "x": 501,
+          "y": 196
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4fc5a47d-410c-4e91-a9e4-2d3694ff9a2a": {
+        "name": "hoaCheckboxNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -206
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 196
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7345f122-3ae8-4151-b419-b268219cd4cf": {
+        "name": "leadbasedCheckboxpre1978Yes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 502,
+          "y": -101
+        },
+        "pdfPosition": {
+          "x": 502,
+          "y": 91
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fbe01c63-b83d-4902-9686-d747e8755089": {
+        "name": "leadbasedCheckboxPre1978No",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 542,
+          "y": -101
+        },
+        "pdfPosition": {
+          "x": 542,
+          "y": 91
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e24bc7dc-dc62-4320-9917-d13fbac3c8bd": {
+        "name": "yearBuilt",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 332,
+          "y": -389
+        },
+        "pdfPosition": {
+          "x": 332,
+          "y": 379
+        },
+        "width": 73,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "983720d3-a534-4107-9896-032f7769664c": {
+        "name": "vacantSince",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 370,
+          "y": -359
+        },
+        "pdfPosition": {
+          "x": 370,
+          "y": 349
+        },
+        "width": 77,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7d694d38-4ee6-4fbe-b5ee-850d63a2c23b": {
+        "name": "offerDate",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 48,
+          "y": -669
+        },
+        "pdfPosition": {
+          "x": 48,
+          "y": 659
+        },
+        "width": 87,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "30eb5de8-bc01-4802-9c38-9c2ad1fe69b6": {
+        "name": "propertyAddress",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 332,
+          "y": -669
+        },
+        "pdfPosition": {
+          "x": 332,
+          "y": 659
+        },
+        "width": 226,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7d2c1cce-4fc8-4a68-aea1-f56added5d2b": {
+        "name": "city",
+        "fontSize": 9,
+        "isCheckbox": false,
+        "position": {
+          "x": 64,
+          "y": -658
+        },
+        "pdfPosition": {
+          "x": 64,
+          "y": 649
+        },
+        "width": 89,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ae302d89-cdf3-4fcf-9cf6-872b8af92e73": {
+        "name": "zipcode",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 249,
+          "y": -659
+        },
+        "pdfPosition": {
+          "x": 249,
+          "y": 649
+        },
+        "width": 77,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "80b09404-a9f7-435b-8eab-8bb7ac4e11a2": {
+        "name": "generalExplanation",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 61,
+          "y": -304
+        },
+        "pdfPosition": {
+          "x": 61,
+          "y": 294
+        },
+        "width": 510,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      },
+      "a9516623-275c-4c29-ae7f-50572fe07578": {
+        "name": "New Box",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 59,
+          "y": -184
+        },
+        "pdfPosition": {
+          "x": 59,
+          "y": 174
+        },
+        "width": 513,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 78
+      }
+    },
+    "2": {
+      "9fac7b65-1978-4de2-9443-283bb8f0110f": {
+        "name": "structuralMovementYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 510,
+          "y": -739
+        },
+        "pdfPosition": {
+          "x": 510,
+          "y": 729
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "84ff7a0f-a118-40b6-abe6-2db92c9a873a": {
+        "name": "structuralMovementNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -738
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 728
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "99237b8d-0c94-4b78-a0ae-254c6e4a0399": {
+        "name": "structuralReinforcementsYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 510,
+          "y": -721
+        },
+        "pdfPosition": {
+          "x": 510,
+          "y": 711
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1228716e-9957-4154-a7b3-1f4249cfc28e": {
+        "name": "structuralReinforcementsNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -721
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 711
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5332362e-aee9-4c1c-97aa-b2e5d810f16a": {
+        "name": "additionsStructuralChangesYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 509,
+          "y": -704
+        },
+        "pdfPosition": {
+          "x": 509,
+          "y": 694
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b6e46f40-aa71-4bb6-bc6e-b5c2968d0d6b": {
+        "name": "additionsStructuralChangesNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -704
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 694
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7bf72f69-e31e-4961-a681-56c98b1a86c5": {
+        "name": "workForBuildingPermitNotObtainedYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -685
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 675
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "05e9eefa-88a6-4c68-8610-2c06195d4971": {
+        "name": "workForBuildingPermitNotObtainedNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -685
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 675
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d6741275-cdde-4b62-86ea-925328a929ca": {
+        "name": "violationsofBuildingCodesZoningRegulationsYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -667
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 657
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2e1c0e73-8905-4f7d-925a-1d3721740173": {
+        "name": "violationsofBuildingCodesZoningRegulationsNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 548,
+          "y": -666
+        },
+        "pdfPosition": {
+          "x": 548,
+          "y": 656
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "33992165-bd24-441d-b7ee-60141598d1c8": {
+        "name": "noticesOfViolationsReceivedYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -650
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 640
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2a78de1f-7767-445c-9da3-d52c643b1f11": {
+        "name": "noticesOfViolationsReceivedNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -649
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 639
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d068840c-0dc1-4bd0-9c68-762312bda37d": {
+        "name": "mobileModularManufacturedHomeYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 510,
+          "y": -635
+        },
+        "pdfPosition": {
+          "x": 510,
+          "y": 625
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f42f9e84-1313-40c7-a405-0aaf1c79d057": {
+        "name": "mobileModularManufacturedHomeNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -635
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 625
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "76e958ab-70d1-4271-8f40-06d9cbb35301": {
+        "name": "anyPortionOfDwellingMovedFromAnotherLocationYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 510,
+          "y": -616
+        },
+        "pdfPosition": {
+          "x": 510,
+          "y": 606
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "121d935f-0aa7-4550-b9b5-38edf537806d": {
+        "name": "anyPortionOfDwellingMovedFromAnotherLocationNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 548,
+          "y": -616
+        },
+        "pdfPosition": {
+          "x": 548,
+          "y": 606
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "aad6ffb0-f577-4cec-89d3-ef20d79a4994": {
+        "name": "StructuralItemsExplanation",
+        "fontSize": 11,
+        "isCheckbox": false,
+        "position": {
+          "x": 57,
+          "y": -598
+        },
+        "pdfPosition": {
+          "x": 57,
+          "y": 587
+        },
+        "width": 516,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 79
+      },
+      "0215ea1e-ce8b-4926-8e10-6a91d6fbad70": {
+        "name": "hvacBeenReplacedYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -528
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 518
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e827918d-7797-49af-bd47-c034a401d099": {
+        "name": "hvacBeenReplacedNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 550,
+          "y": -528
+        },
+        "pdfPosition": {
+          "x": 550,
+          "y": 518
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c916fa2c-f1c6-4683-8582-be46b5dfd261": {
+        "name": "dateOfLastHvacService",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 249,
+          "y": -517
+        },
+        "pdfPosition": {
+          "x": 249,
+          "y": 507
+        },
+        "width": 198,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "549ecc37-e3ea-4ee7-b18b-2f912de60006": {
+        "name": "anyHeatedAndCooledPortionOfMainDwellingNotCentralAirYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -496
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 486
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a5aff00c-ebba-45f6-94d0-95aa40c7a44b": {
+        "name": "anyHeatedAndCooledPortionOfMainDwellingNotCentralAirNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -497
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 487
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f7cd0964-2338-48b4-973b-ed08fddfbe61": {
+        "name": "anyHeatedandCooledPortionNeedingReplacementYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -478
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 468
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c396e6be-a419-426b-8b4c-004538ebdef4": {
+        "name": "anyHeatedandCooledPortionNeedingReplacementNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -478
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 468
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "623d2901-b865-4163-b1b0-aaebe9b47053": {
+        "name": "dwellingOrGarageHaveAluminumWiringOtherThanPrimaryServiceLineYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -463
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 453
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "101475f1-f512-440f-9bab-f39bcdff5241": {
+        "name": "dwellingOrGarageHaveAluminumWiringOtherThanPrimaryServiceLineNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -463
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 453
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "86684327-bd93-4842-bb0f-e35eb552d488": {
+        "name": "anyFireplacesOnlyDecorativeOrNeedRepairYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -448
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 438
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7556be45-d539-4f35-b8a2-422e7577d5d1": {
+        "name": "anyFireplacesOnlyDecorativeOrNeedRepairNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 550,
+          "y": -448
+        },
+        "pdfPosition": {
+          "x": 550,
+          "y": 438
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ad81e318-3d22-4be8-875e-49be9a9aec6c": {
+        "name": "stuccoDamageCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -431
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 421
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2ea8f38d-364c-4912-b877-1945c3831578": {
+        "name": "stuccoDamageCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 551,
+          "y": -430
+        },
+        "pdfPosition": {
+          "x": 551,
+          "y": 420
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f815bfee-8118-4933-a484-9576e9d2d64b": {
+        "name": "componetsSubjectToLeaseCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -409
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 399
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3209d0fa-ce8b-4dae-8967-eda87ca6de88": {
+        "name": "componetsSubjectToLeaseCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 550,
+          "y": -409
+        },
+        "pdfPosition": {
+          "x": 550,
+          "y": 399
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c5fcd072-aab1-4c06-b5c8-2f75f718ad66": {
+        "name": "remotelyAccessedThermostatsLightingSystemsSecurityCamerasVideoDoorbellsLocksAppliancesEtcCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -389
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 379
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "8cac45f9-e95e-451f-a403-5d498822000e": {
+        "name": "remotelyAccessedThermostatsLightingSystemsSecurityCamerasVideoDoorbellsLocksAppliancesEtcCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 550,
+          "y": -389
+        },
+        "pdfPosition": {
+          "x": 550,
+          "y": 379
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "45f10722-3fe6-469e-b49a-f19024f32c7c": {
+        "name": "systemsAndComponentsExplanation",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 59,
+          "y": -369
+        },
+        "pdfPosition": {
+          "x": 59,
+          "y": 359
+        },
+        "width": 512,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      },
+      "00c6eaae-2af7-4fd4-b55e-d74a4d4fbe13": {
+        "name": "waterHeaterAge",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 245,
+          "y": -304
+        },
+        "pdfPosition": {
+          "x": 245,
+          "y": 294
+        },
+        "width": 66,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "34da4759-aca4-4186-824c-c49429b9417b": {
+        "name": "drinkingWaterSourcePublic",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 238,
+          "y": -288
+        },
+        "pdfPosition": {
+          "x": 238,
+          "y": 278
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6b7961a3-b9fd-4f42-b047-a4eb825e6da7": {
+        "name": "drinkingWaterSourcePrivate",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 285,
+          "y": -288
+        },
+        "pdfPosition": {
+          "x": 285,
+          "y": 278
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f972808b-bb75-4d3d-b78f-9960584fdbcf": {
+        "name": "drinkingWaterSourceWell",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 334,
+          "y": -288
+        },
+        "pdfPosition": {
+          "x": 334,
+          "y": 278
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "474c8546-a291-4bff-99c8-1a8b591e0e65": {
+        "name": "dateWellServiced",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 360,
+          "y": -274
+        },
+        "pdfPosition": {
+          "x": 360,
+          "y": 264
+        },
+        "width": 100,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f56b0982-dc0d-4359-99c0-682b7f204f16": {
+        "name": "wellTestedCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 494,
+          "y": -253
+        },
+        "pdfPosition": {
+          "x": 494,
+          "y": 243
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "9f846842-00d3-4002-9cc2-fd48f4c31f26": {
+        "name": "wellTestedCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 545,
+          "y": -252
+        },
+        "pdfPosition": {
+          "x": 545,
+          "y": 242
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "bcc649cd-14a5-443c-92f3-05cb3f6f44d9": {
+        "name": "wellTestedDate",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 313,
+          "y": -248
+        },
+        "pdfPosition": {
+          "x": 313,
+          "y": 238
+        },
+        "width": 123,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3b286d2a-28ef-441e-822e-c45cd7a89c9f": {
+        "name": "sewerSystemCheckPublic",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 207,
+          "y": -232
+        },
+        "pdfPosition": {
+          "x": 207,
+          "y": 222
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "51abb937-127d-4e28-aef7-a677b17095d1": {
+        "name": "sewerSystemCheckPrivate",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 255,
+          "y": -233
+        },
+        "pdfPosition": {
+          "x": 255,
+          "y": 223
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6a7ba387-e55e-4e04-9270-b3607d1b211a": {
+        "name": "sewerSystemCheckSeptic",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 305,
+          "y": -232
+        },
+        "pdfPosition": {
+          "x": 305,
+          "y": 222
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ae4ff2cd-1923-4c5b-b470-0ce6ed212489": {
+        "name": "bedroomsApprovedForSeptic",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 285,
+          "y": -208
+        },
+        "pdfPosition": {
+          "x": 285,
+          "y": 198
+        },
+        "width": 55,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "07d561a7-ef3a-46d1-b4ad-d1d5c242b99a": {
+        "name": "sewagePumpCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 495,
+          "y": -191
+        },
+        "pdfPosition": {
+          "x": 495,
+          "y": 181
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ae9711fc-7b4f-47f1-bfde-04bc3499cee1": {
+        "name": "sewagePumpCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 545,
+          "y": -191
+        },
+        "pdfPosition": {
+          "x": 545,
+          "y": 181
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b2c56618-2422-4a5b-973a-2742808cab78": {
+        "name": "septicTankOrCesspoolProfessionallyServicedCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 496,
+          "y": -176
+        },
+        "pdfPosition": {
+          "x": 496,
+          "y": 166
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ee01dbe8-bf07-4a7d-ad1f-bc7805420a45": {
+        "name": "septicTankOrCesspoolProfessionallyServicedCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 544,
+          "y": -175
+        },
+        "pdfPosition": {
+          "x": 544,
+          "y": 165
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "62b2e3c8-5b41-4df1-9096-882723995fa1": {
+        "name": "septicTankOrCesspoolLastServiceDate",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 240,
+          "y": -163
+        },
+        "pdfPosition": {
+          "x": 240,
+          "y": 153
+        },
+        "width": 148,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "8e0066d6-df30-484e-844d-a5b6ba56ca6b": {
+        "name": "problemsWithPlumbingCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 498,
+          "y": -144
+        },
+        "pdfPosition": {
+          "x": 498,
+          "y": 134
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "df026573-8fc6-4311-ae06-34312d931a09": {
+        "name": "problemsWithPlumbingCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 544,
+          "y": -143
+        },
+        "pdfPosition": {
+          "x": 544,
+          "y": 133
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "39b280bc-7e6d-43ac-b97d-2b3f0c0a7aca": {
+        "name": "anyPolybutylenePlumbingCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 544,
+          "y": -125
+        },
+        "pdfPosition": {
+          "x": 544,
+          "y": 115
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "80dd77c3-bed0-4648-87c8-dfff436c32c2": {
+        "name": "anyPolybutylenePlumbingCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 498,
+          "y": -125
+        },
+        "pdfPosition": {
+          "x": 498,
+          "y": 115
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2bcb4760-e3ad-4d59-b808-4d288bf5caa6": {
+        "name": "waterDamageCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 498,
+          "y": -110
+        },
+        "pdfPosition": {
+          "x": 498,
+          "y": 100
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "915004a2-545b-4cd8-a2c0-ef893e193352": {
+        "name": "waterDamageCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 544,
+          "y": -110
+        },
+        "pdfPosition": {
+          "x": 544,
+          "y": 100
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7815ec3d-7302-4cd7-8278-c5dcbd784fa6": {
+        "name": "sewerPlumbingExplanation",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 59,
+          "y": -95
+        },
+        "pdfPosition": {
+          "x": 59,
+          "y": 85
+        },
+        "width": 518,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      }
+    },
+    "3": {
+      "d2ec6868-4a89-43e3-a0eb-2141db244707": {
+        "name": "ageOfRoof",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 269,
+          "y": -745
+        },
+        "pdfPosition": {
+          "x": 269,
+          "y": 735
+        },
+        "width": 42,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3f00f7db-8c6e-4605-a087-edbec6a57fef": {
+        "name": "roofRepairedCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 508,
+          "y": -727
+        },
+        "pdfPosition": {
+          "x": 508,
+          "y": 717
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "395c4df1-153f-4b30-b910-a3409a62dfb3": {
+        "name": "roofRepairedCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -727
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 717
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0c02c74e-ad9d-4cff-b914-77578ad5613a": {
+        "name": "roofLeaksCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 508,
+          "y": -713
+        },
+        "pdfPosition": {
+          "x": 508,
+          "y": 703
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0191cf2e-c131-411b-9475-f88630c36cdb": {
+        "name": "roofLeaksCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -713
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 703
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e18acb0f-086c-4f46-a652-4c5eab0dd318": {
+        "name": "explanationRoofGuttersDownspouts",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -698
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 688
+        },
+        "width": 514,
+        "shouldWrap": false,
+        "shouldCenter": true,
+        "indent": 77
+      },
+      "ee3d9a61-d22a-48c0-a71d-1afff0000df5": {
+        "name": "waterIntrusionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -611
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 601
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b1523fe9-6d5e-4530-a314-c91b2ee9b298": {
+        "name": "waterIntrusionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 551,
+          "y": -611
+        },
+        "pdfPosition": {
+          "x": 551,
+          "y": 601
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "90c9ffcd-0972-487f-a480-b80f491a5ff3": {
+        "name": "repairsForWaterIntrustionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -590
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 580
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5bf2f6d3-a133-4f36-b82d-779adb94d88d": {
+        "name": "repairsForWaterIntrustionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -589
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 579
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2ab1884e-02d4-4560-b542-15fe5e0c35fb": {
+        "name": "specialFloodZoneCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -567
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 557
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f3f53812-2efe-40ff-8a07-2ed29f4491d0": {
+        "name": "specialFloodZoneCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -569
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 559
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fd80ec67-4058-4e71-a19a-784b8543e08d": {
+        "name": "floodingCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -551
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 541
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "60d0d2f9-4ebf-4596-a885-c32664e1b136": {
+        "name": "floodingCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -550
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 540
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6452da65-45d2-4f01-ab5e-694a9c20f239": {
+        "name": "streamsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 551,
+          "y": -536
+        },
+        "pdfPosition": {
+          "x": 551,
+          "y": 526
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "bcdc6aa4-55a5-4b8d-aeb9-e1507fa70900": {
+        "name": "streamsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -536
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 526
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6f512b51-8eae-49ba-80b5-c65157593d0a": {
+        "name": "dams,RetentionPondsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -520
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 510
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "808a163d-5bcb-463c-8352-c53a19d092e5": {
+        "name": "dams,RetentionPondsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -520
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 510
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5a029339-172b-4e67-8bcc-351288338960": {
+        "name": "explanationFloodingDrainingMoisture",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 57,
+          "y": -505
+        },
+        "pdfPosition": {
+          "x": 57,
+          "y": 495
+        },
+        "width": 515,
+        "shouldWrap": false,
+        "shouldCenter": true,
+        "indent": 77
+      },
+      "fc994cc7-3bb8-4288-9909-471e6b53f9a9": {
+        "name": "landfillsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -420
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 410
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "047c2c9e-dd2c-4f85-9748-92eea7b04f48": {
+        "name": "landfillsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 553,
+          "y": -420
+        },
+        "pdfPosition": {
+          "x": 553,
+          "y": 410
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "453a57d9-9651-43a1-ab51-f9a1c28279ff": {
+        "name": "visibleSoilSettlementCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 511,
+          "y": -401
+        },
+        "pdfPosition": {
+          "x": 511,
+          "y": 391
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "bc9fd566-2a8c-4b89-bd17-b18c1a46281e": {
+        "name": "visibleSoilSettlementCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 553,
+          "y": -400
+        },
+        "pdfPosition": {
+          "x": 553,
+          "y": 390
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4b19e8fa-4f5a-4785-bbe2-1c8e626d4e88": {
+        "name": "sharedImprovementsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -384
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 374
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b2dbc8ef-f917-438e-8a4c-e203dc89eb2d": {
+        "name": "sharedImprovementsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 553,
+          "y": -383
+        },
+        "pdfPosition": {
+          "x": 553,
+          "y": 373
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1ca46320-80e4-4075-955e-3d825c6ce7df": {
+        "name": "encroachmentsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 512,
+          "y": -362
+        },
+        "pdfPosition": {
+          "x": 512,
+          "y": 352
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "51b50efa-34ed-4490-83c6-4c0b01aff3a9": {
+        "name": "encroachmentsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 554,
+          "y": -361
+        },
+        "pdfPosition": {
+          "x": 554,
+          "y": 351
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "dfc9521b-3454-4cdf-a28b-2c093acae841": {
+        "name": "explanationSoilBoundaries",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -343
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 333
+        },
+        "width": 516,
+        "shouldWrap": false,
+        "shouldCenter": true,
+        "indent": 77
+      },
+      "90410a6d-6bd7-411a-9da3-33c4b891e55b": {
+        "name": "wildlifeInAtticCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -260
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 250
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "44f37b51-1900-4e01-bee4-ac72347caa41": {
+        "name": "wildlifeInAtticCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 551,
+          "y": -260
+        },
+        "pdfPosition": {
+          "x": 551,
+          "y": 250
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "9c89e75a-b2fc-4e5a-b4ae-658e365a4bde": {
+        "name": "wildlifeIntrusionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -242
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 232
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d234a26b-8d72-49ff-858c-9e841a8e65f1": {
+        "name": "wildlifeIntrusionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 551,
+          "y": -241
+        },
+        "pdfPosition": {
+          "x": 551,
+          "y": 231
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d5c47714-1545-42d4-88ef-8f7fa6a0926e": {
+        "name": "termiteBondCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -220
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 210
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "17fd78c8-1ff1-43af-9f0a-25e8fdce5296": {
+        "name": "termiteBondCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -220
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 210
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1669f5b4-e889-4d01-b3ab-5f75a63b14d9": {
+        "name": "costToTransferTermiteBond",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 248,
+          "y": -204
+        },
+        "pdfPosition": {
+          "x": 248,
+          "y": 194
+        },
+        "width": 55,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e54775f1-c42f-4155-9bcf-0498d2e16bcc": {
+        "name": "termiteBondAnnualCost",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 426,
+          "y": -205
+        },
+        "pdfPosition": {
+          "x": 426,
+          "y": 195
+        },
+        "width": 57,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "204bb89c-6e8f-4133-a41c-692a80414151": {
+        "name": "termiteCompanyName",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 228,
+          "y": -189
+        },
+        "pdfPosition": {
+          "x": 228,
+          "y": 179
+        },
+        "width": 249,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3e47b07d-1e8e-4d16-a293-a280fab4e7c0": {
+        "name": "repairAndRetreatment",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 149,
+          "y": -173
+        },
+        "pdfPosition": {
+          "x": 149,
+          "y": 163
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0161173d-171b-4d46-9d22-d12048682d2c": {
+        "name": "retreatment",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 279,
+          "y": -174
+        },
+        "pdfPosition": {
+          "x": 279,
+          "y": 164
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "230e41f7-ba87-48a6-a2df-9dcd7339a6bc": {
+        "name": "periodicInspectionsOnly",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 367,
+          "y": -173
+        },
+        "pdfPosition": {
+          "x": 367,
+          "y": 163
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d29214d6-a008-40d1-aa30-0ef010f0d5d7": {
+        "name": "termiteExpirationDate",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 168,
+          "y": -159
+        },
+        "pdfPosition": {
+          "x": 168,
+          "y": 149
+        },
+        "width": 70,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "efb68e4b-1404-478c-8de8-baf40c2ddaea": {
+        "name": "termiteRenewalDate",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 360,
+          "y": -160
+        },
+        "pdfPosition": {
+          "x": 360,
+          "y": 150
+        },
+        "width": 70,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4dd011d5-0502-4eeb-95b1-cd074715ae5e": {
+        "name": "explanationTermites",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -143
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 133
+        },
+        "width": 512,
+        "shouldWrap": false,
+        "shouldCenter": true,
+        "indent": 77
+      }
+    },
+    "4": {
+      "017e380d-f28f-468a-9b0d-fb8567a5055e": {
+        "name": "undergroundTanksOrToxicSubstancesCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -742
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 732
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "74c13dd0-76e0-4f88-8065-39a6a9709312": {
+        "name": "undergroundTanksOrToxicSubstancesCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 500,
+          "y": -742
+        },
+        "pdfPosition": {
+          "x": 500,
+          "y": 732
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f599a557-e003-4634-9a9e-739c0b7858f4": {
+        "name": "methProducedCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 500,
+          "y": -728
+        },
+        "pdfPosition": {
+          "x": 500,
+          "y": 718
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "48a4f594-8613-454b-9d16-0595431820f5": {
+        "name": "methProducedCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 548,
+          "y": -727
+        },
+        "pdfPosition": {
+          "x": 548,
+          "y": 717
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "dc6e8bce-2ba5-4583-bb57-ebbc22840144": {
+        "name": "adverseTestResultsRadonCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 500,
+          "y": -709
+        },
+        "pdfPosition": {
+          "x": 500,
+          "y": 699
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2746a672-9a55-4ec0-985b-a34466a278ff": {
+        "name": "adverseTestResultsRadonCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -709
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 699
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6cda555e-a70c-4096-b4fa-08ef7f6dc213": {
+        "name": "explanationEnvironmentalHeath",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -691
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 681
+        },
+        "width": 514,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      },
+      "d651e89f-64ef-4325-8b57-5f778a404f73": {
+        "name": "litigationNegligentConstructionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -620
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 610
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "29d81b5d-8bba-47c2-a767-23ead63abcc0": {
+        "name": "litigationNegligentConstructionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 549,
+          "y": -619
+        },
+        "pdfPosition": {
+          "x": 549,
+          "y": 609
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "db973b1d-c6bd-4f80-bf49-22fd899ee203": {
+        "name": "paymentForPoorConstructionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 514,
+          "y": -598
+        },
+        "pdfPosition": {
+          "x": 514,
+          "y": 588
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ca221380-ade6-4333-af35-264a67d52e11": {
+        "name": "paymentForPoorConstructionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 550,
+          "y": -598
+        },
+        "pdfPosition": {
+          "x": 550,
+          "y": 588
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fd2d19f6-ee1a-4578-a967-116d9f7558d0": {
+        "name": "signedDefectiveProductsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 515,
+          "y": -577
+        },
+        "pdfPosition": {
+          "x": 515,
+          "y": 567
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b7a140f8-0155-4c30-9b2e-98707bd84770": {
+        "name": "signedDefectiveProductsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -576
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 566
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "40fcaea2-b4e1-4d73-a989-47e7ebed4627": {
+        "name": "insuranceClaims10%OrMoreCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 515,
+          "y": -556
+        },
+        "pdfPosition": {
+          "x": 515,
+          "y": 546
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f369c161-5dcd-44c5-9588-a120530ec912": {
+        "name": "insuranceClaims10%OrMoreCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 552,
+          "y": -555
+        },
+        "pdfPosition": {
+          "x": 552,
+          "y": 545
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a792880b-73b3-4adb-a2ef-ac8fd476a8b2": {
+        "name": "pendingCondemnationActionCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 513,
+          "y": -537
+        },
+        "pdfPosition": {
+          "x": 513,
+          "y": 530
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fee071c9-92a5-49c0-beff-d9dd47310788": {
+        "name": "pendingCondemnationActionCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 554,
+          "y": -538
+        },
+        "pdfPosition": {
+          "x": 554,
+          "y": 528
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "15dfcb37-b706-4ea2-8e3c-9b354f09a17a": {
+        "name": "amountOfInsuranceClaimsFiled",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 375,
+          "y": -526
+        },
+        "pdfPosition": {
+          "x": 375,
+          "y": 516
+        },
+        "width": 70,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "59690cab-09df-431a-9641-6ad144b2a94f": {
+        "name": "explanationLitigationAndInsurance",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -508
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 498
+        },
+        "width": 515,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      },
+      "3cc06957-b923-4e5a-b6a2-90b4d13008c1": {
+        "name": "otherHiddenDefectsCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 500,
+          "y": -425
+        },
+        "pdfPosition": {
+          "x": 500,
+          "y": 415
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "32ec8ac9-e660-4877-9b22-6bde3220ad54": {
+        "name": "otherHiddenDefectsCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 546,
+          "y": -426
+        },
+        "pdfPosition": {
+          "x": 546,
+          "y": 416
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "984071f2-7d98-4481-ae96-6b84ab5507ce": {
+        "name": "explanationOtherHiddenDefects",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 58,
+          "y": -411
+        },
+        "pdfPosition": {
+          "x": 58,
+          "y": 401
+        },
+        "width": 515,
+        "shouldWrap": true,
+        "shouldCenter": false,
+        "indent": 77
+      },
+      "b5455ddd-1c6d-44d0-8b9d-fc2b9e24d5d0": {
+        "name": "agriculturalOrForestryUseCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 499,
+          "y": -323
+        },
+        "pdfPosition": {
+          "x": 499,
+          "y": 313
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "9856568e-6b8d-4d18-99e2-475e2fdf3cfc": {
+        "name": "agriculturalOrForestryUseCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 547,
+          "y": -323
+        },
+        "pdfPosition": {
+          "x": 547,
+          "y": 313
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "821e186e-bc9d-41b5-9185-0afebf2cf40a": {
+        "name": "preferentialTaxTreatmentCheckYes",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 499,
+          "y": -306
+        },
+        "pdfPosition": {
+          "x": 499,
+          "y": 296
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "837cde64-e6ed-4dc1-8e44-03c798aacc4f": {
+        "name": "preferentialTaxTreatmentCheckNo",
+        "fontSize": 10,
+        "isCheckbox": true,
+        "position": {
+          "x": 546,
+          "y": -306
+        },
+        "pdfPosition": {
+          "x": 546,
+          "y": 296
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      }
+    },
+    "5": {
+      "7359b184-e7cb-48db-b1fd-fc78dccabe59": {
+        "name": "additionalExplanations",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 55,
+          "y": -742
+        },
+        "pdfPosition": {
+          "x": 55,
+          "y": 732
+        },
+        "width": 507,
+        "shouldWrap": true,
+        "shouldCenter": false
+      }
+    },
+    "6": {
+      "3ebdb67e-7178-4db5-a709-482ab7caeaee": {
+        "name": "clothesDryerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -647
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 639
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1c385f3f-893c-4c8a-a1a2-d332295b08db": {
+        "name": "clothesWashingMachineRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -636
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 628
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fa00612c-d296-42e1-b8d6-c68e97062a7c": {
+        "name": "dishwasherRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -615
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 607
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "20946c9f-1e9b-4703-afcf-5b381c25e23c": {
+        "name": "garageDoorOpenerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -604
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 596
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d7b0eb21-e4d5-4a87-a00c-6676639fa1a3": {
+        "name": "garbageDisposalRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -582
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 574
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "804a3799-3d78-40fa-9dec-39f369f6e35e": {
+        "name": "iceMakerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -571
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 563
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "011c1514-c864-4f5a-afe2-541925c83601": {
+        "name": "microwaveOvenRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -560
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 550
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "607f255d-1e6a-4904-82b4-48c1cdbaaf50": {
+        "name": "ovenRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -549
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 541
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c4686281-4786-47d0-aa69-2d3d729cb01b": {
+        "name": "rangeRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 45,
+          "y": -538
+        },
+        "pdfPosition": {
+          "x": 45,
+          "y": 530
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "bb964572-e650-4393-9da4-7e98292a7497": {
+        "name": "refrigeratorW/oFreezerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -527
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 519
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1599aa3d-e25c-40c1-815c-e599d2eeefda": {
+        "name": "refrigerator/FreezerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -515
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 507
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4a62f997-5f23-4d85-9106-a8a5abb59010": {
+        "name": "freeStandingFreezerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -504
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 496
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2f8b20f3-9ea1-40cf-8b41-2af461429fa4": {
+        "name": "surfaceCookTopRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -493
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 485
+        },
+        "width": 10,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ea02f923-efa6-4917-ae48-282b37b5b88e": {
+        "name": "trashCompactorRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -482
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 474
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c0226cf4-be50-4254-810f-3c86c2256444": {
+        "name": "vacuumSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -471
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 463
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "4ddf7ef8-82b4-4648-ade5-032be5dffe3e": {
+        "name": "ventHoodRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -460
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 452
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "942510c2-4982-4b0f-9e9c-0c29e8d1aaa3": {
+        "name": "warmingDrawerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -449
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 441
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "89d8295a-1190-4eeb-ad29-cd26b7a9102b": {
+        "name": "wineCoolerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -438
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 430
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ee52138c-7727-44f4-a32f-a2e9f6602c1c": {
+        "name": "amplifierRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -406
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 398
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "24792ab7-f46f-4479-81a3-856ad291cf59": {
+        "name": "cableJacksRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -395
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 387
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e2ecc281-8640-444c-b059-a8d8961202d2": {
+        "name": "cableReceiverRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -384
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 376
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "102b0fdf-ff3d-468c-8729-859c3cfb9a10": {
+        "name": "cableRemotesRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -373
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 363
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f24d7ee9-c86f-437a-9fb5-54bdbd4e6e59": {
+        "name": "intercomSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -362
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 352
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "de15e84e-df09-4cfd-a149-b2c720ad48ba": {
+        "name": "internetHubRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -350
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 342
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f9667b84-6479-4b73-9525-7d23a91a82d1": {
+        "name": "internetWiringRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -339
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 331
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "584bc7a5-560d-4ceb-aeae-c7d5b5de3f74": {
+        "name": "satelliteDishRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -328
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 320
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "272abbc2-3fc3-46f4-b3cf-87e6a9959fdc": {
+        "name": "satelliteReceiverRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 45,
+          "y": -317
+        },
+        "pdfPosition": {
+          "x": 45,
+          "y": 309
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0b47699d-4229-428e-a014-9eda4da471ed": {
+        "name": "speakersRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 45,
+          "y": -306
+        },
+        "pdfPosition": {
+          "x": 45,
+          "y": 298
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "238c9094-00ee-4491-a03d-3af28c2bb83b": {
+        "name": "speakerWiringRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -295
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 287
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "62a002a0-4954-4084-b33d-b3c0ad827385": {
+        "name": "switchPlateCoversRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 44,
+          "y": -284
+        },
+        "pdfPosition": {
+          "x": 44,
+          "y": 276
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ee50bafc-ac67-457d-a481-48a6bf33da28": {
+        "name": "tvRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -658
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 650
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "51372bb4-229d-4aa2-b01d-0501d3facc18": {
+        "name": "tvAntennaRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -646
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 638
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "384c3523-d453-4ad3-bed9-484c1e4c3c9d": {
+        "name": "tvMountsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -635
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 627
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "38edeaa9-f566-4558-a76f-334f929fde2f": {
+        "name": "tvWiringRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -624
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 616
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1e1bfbb3-09a2-44cb-a3fd-519e72f90602": {
+        "name": "ceilingFanRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -592
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 584
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "11e130d6-4420-43e9-a450-71850de41a1d": {
+        "name": "chandelierRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -581
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 573
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "293dc9f7-fea6-4aec-9557-4541604a85eb": {
+        "name": "closetSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -570
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 562
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "dcaac324-bb70-45dc-9768-42dec3492f06": {
+        "name": "fireplaceRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -559
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 549
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6d304040-2753-47f0-bded-d1de5f25cff6": {
+        "name": "fpGasLogsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -548
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 540
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5d13169a-46ae-490e-b30e-a07d294ea600": {
+        "name": "fpScreenDoorRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -537
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 529
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "198b5aeb-8198-4303-80aa-67a08074d822": {
+        "name": "fpWoodBurningInsertRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -526
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 518
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f807be52-07d2-427f-92c3-98a5f8cfdf85": {
+        "name": "lightBulbsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -515
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 507
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5a276fef-6523-49ca-8682-10b46b9875a6": {
+        "name": "lightFixturesRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -504
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 496
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "85973309-a721-44bb-a498-57866e6f1396": {
+        "name": "mirrorsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -493
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 485
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2d7adcbe-f0a5-4366-bd16-6faa613445dc": {
+        "name": "wallMirrorsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 188,
+          "y": -481
+        },
+        "pdfPosition": {
+          "x": 188,
+          "y": 473
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "97cd4819-86ad-4332-946a-71e7f20ec5bc": {
+        "name": "vanityRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 188,
+          "y": -470
+        },
+        "pdfPosition": {
+          "x": 188,
+          "y": 462
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a9e8b45e-9ca3-4d39-b9a9-91e9911cf410": {
+        "name": "shelvingUnitAndSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -449
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 441
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "8345e7ff-5b65-4127-a172-77a8286ab981": {
+        "name": "showerHead/SprayerRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -438
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 430
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "146f4073-7b0d-4995-aa6c-1da85126252f": {
+        "name": "storageUnit/SystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -427
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 419
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3bc94568-0c32-4d06-90aa-f281909ab30d": {
+        "name": "windowBlindsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -416
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 406
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c94ea1b4-a706-49f7-ba5a-0481882e3316": {
+        "name": "windowShuttersRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -394
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 386
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "69681345-f171-4b13-b746-deb0815c6d46": {
+        "name": "windowDraperiesRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -373
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 365
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ec2ef874-5e26-4a37-a89d-ca700cc02aae": {
+        "name": "unusedPaintRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -351
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 343
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "43b4f8e1-aea2-4c0a-8e7c-f8261d8aba8c": {
+        "name": "arborRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -319
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 311
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b2891436-6ceb-466f-8904-3683d10510ad": {
+        "name": "awningRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -308
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 300
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "03ed25f9-c958-49ee-9b5a-fa3a542e8995": {
+        "name": "basketballPostRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 176,
+          "y": -297
+        },
+        "pdfPosition": {
+          "x": 176,
+          "y": 289
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "10ad1dc3-7791-42ba-ba76-de7234116f3e": {
+        "name": "birdhousesRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -658
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 650
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1da2b13d-929e-4538-a112-3085c9c24263": {
+        "name": "boatDockRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -646
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 638
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ab27c16d-032b-4735-9f34-738247157646": {
+        "name": "fenceInvisibleRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -635
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 627
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a55103d0-78e8-492a-846a-84326e8900fb": {
+        "name": "dogHouseRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -624
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 616
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "faf642f3-961a-41d2-b79c-af78d561755b": {
+        "name": "flagPoleRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -613
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 605
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "cae98919-e9fc-4fe8-954a-fb17258a51be": {
+        "name": "gazeboRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -602
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 594
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c281cae9-1d3c-4935-9730-4905faa2fcc0": {
+        "name": "irrigationSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -591
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 583
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "7f21ec8a-529f-4bbc-a5aa-b0f3cba6d536": {
+        "name": "landscaptingLightsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -580
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 572
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "97d3a085-6982-42ef-98b6-d23b69b03306": {
+        "name": "mailboxRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -569
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 561
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ae8fea37-7b94-4b07-b1d0-4f6f469f33de": {
+        "name": "out/StorageBuildingRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -558
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 550
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "087a2232-fa0b-4591-89d1-d70542f39294": {
+        "name": "porchSwingRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -547
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 539
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0cb64225-28aa-4bfb-914b-bbbbefa0e3ef": {
+        "name": "statuaryRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -535
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 527
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6d6df888-4576-4e61-ab4e-14daff228033": {
+        "name": "steppingStonesRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -524
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 514
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d1d82936-e3ca-40e7-8f77-177cc9592173": {
+        "name": "swingSetRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -513
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 505
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2d9355c3-bb65-4aee-a300-e2804ec22618": {
+        "name": "treeHouseRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -502
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 494
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5bf005ee-9ca4-4f86-bff2-2ed76ab70446": {
+        "name": "trellisRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -491
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 483
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b4d7ae29-595d-4a28-8d52-0c4eddc4e84c": {
+        "name": "weatherVaneRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -480
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 472
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a234f904-8e62-4458-8d07-3d3e137097e9": {
+        "name": "aboveGroundPoolRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -448
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 440
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "0e8c8f27-d9f2-461d-baa8-c7904dd975fd": {
+        "name": "gasGrillRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -437
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 429
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "9e191f8d-a3a6-4ec8-bf78-a9f56c62534d": {
+        "name": "hotTubRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -426
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 418
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "285dffdb-9e64-4059-abe6-4c9d96683b84": {
+        "name": "outdoorFurnitureRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -415
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 405
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "583f29fb-74d5-4809-8382-c70954a208d3": {
+        "name": "outdoorPlayhouseRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -404
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 396
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e7480511-2621-4578-86cc-6532f6ae6a91": {
+        "name": "poolEquipmentRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -393
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 385
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "86ba9617-6e20-4c17-b777-fe06fb07527a": {
+        "name": "poolChemicalsRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -382
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 374
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "5367e32f-3590-4d84-8656-731fd2db6a09": {
+        "name": "saunaRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -370
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 360
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e2ccbace-906e-4be9-af68-27f57af5f861": {
+        "name": "alarmSystem(Burglar)Remains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 307,
+          "y": -339
+        },
+        "pdfPosition": {
+          "x": 307,
+          "y": 331
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "1a22eb6b-a152-4a41-b991-27f612c342a9": {
+        "name": "alarmSystem(Smoke/Fire)Remains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -328
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 320
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "cbcc6f2c-dc31-44cd-a945-8936c9382b72": {
+        "name": "securityCameraRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -316
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 308
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "6633fee4-3d7d-4de3-96da-d9f735fc793e": {
+        "name": "carbonMonoxideDetectorRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -305
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 297
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "06a1468b-1364-4433-a310-26afa1ef1cd9": {
+        "name": "doorbellRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -293
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 285
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2408098e-1b5d-4d9f-9d17-7f9b1f1e5ec4": {
+        "name": "doorandWindowRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 308,
+          "y": -283
+        },
+        "pdfPosition": {
+          "x": 308,
+          "y": 275
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "26bf8089-012b-44c8-9bb2-a17114323a40": {
+        "name": "fireSprinklerSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 450,
+          "y": -658
+        },
+        "pdfPosition": {
+          "x": 450,
+          "y": 650
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "cbaa051e-177f-47b4-94ce-ced332aede78": {
+        "name": "gateRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 450,
+          "y": -646
+        },
+        "pdfPosition": {
+          "x": 450,
+          "y": 636
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "90b5e87d-f886-43ab-aa6b-03885faf7b0d": {
+        "name": "safeRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -635
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 627
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2b5b216f-b51d-4453-b3bb-b7b3d617a861": {
+        "name": "smokeDetectorRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -624
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 616
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a6e1064d-8dd1-4544-a9f2-7253698eed38": {
+        "name": "acWindowUnitRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -581
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 573
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c797338c-f9b9-4239-b3ac-b61df0eba6b8": {
+        "name": "airPurifierRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -570
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 562
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "fc6e0ff2-d60b-403f-b47b-87779e570c93": {
+        "name": "wholeHouseFanRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -559
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 551
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "b2606db9-a5e5-4ac4-a8e1-5fe360daaf74": {
+        "name": "atticVentilatorFanRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -548
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 540
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "688c732a-8e39-496f-9156-19cc1b4f7a0c": {
+        "name": "ventilatorFanRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 450,
+          "y": -537
+        },
+        "pdfPosition": {
+          "x": 450,
+          "y": 527
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "eaa32bb1-402d-4671-a6fb-282c2fe9c0f3": {
+        "name": "carChargingStationRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -526
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 518
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "de526daa-e54c-45ac-8883-cdf40d95719d": {
+        "name": "dehumidifierRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -515
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 507
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "c2f5df1d-af61-4c65-b7c0-23c86c2c87fa": {
+        "name": "generatorRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -504
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 496
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "bbf2dee4-0597-4b05-af85-38820cf4fb21": {
+        "name": "humidifierRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -493
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 485
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "506edaf8-368f-4595-99d0-7c659fb36db7": {
+        "name": "propaneTankRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -481
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 473
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "be30a2da-19e2-4ded-9794-2848f765e480": {
+        "name": "propaneFuelInTankRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -470
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 462
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "480e3e21-7bb2-4217-ba6a-1a5f9d6685c2": {
+        "name": "fuelOilTankRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -459
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 451
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e429c7ff-bbff-45c7-a626-b91b5d997912": {
+        "name": "fuelOilInTankRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -448
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 440
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "a6e4ac4c-0455-41db-9289-5f56ee00eed9": {
+        "name": "sewagePumpRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -437
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 429
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "894f86bc-15ea-4b3c-b270-b7e3cab736e4": {
+        "name": "solarPanelRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 450,
+          "y": -426
+        },
+        "pdfPosition": {
+          "x": 450,
+          "y": 416
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "8aad35f9-732a-442a-8301-4d2f9cd87ac8": {
+        "name": "sumpPumpRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -415
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 407
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "386913f5-538b-4d8e-87ae-63e68c5be65f": {
+        "name": "thermostatRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -404
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 396
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "2e2e6de3-b212-4d90-b585-68085cdc3ebc": {
+        "name": "waterPurificationSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -393
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 385
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "aac3c56b-9d9b-4a2d-a154-f2781252957b": {
+        "name": "waterSoftenerSystemRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -371
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 363
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "ad420d88-359d-433f-a2d6-bf847dbebf8d": {
+        "name": "wellPumpRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -350
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 342
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "3ca1a142-c040-40a9-bf05-179e9c45fc7b": {
+        "name": "otherRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -318
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 310
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "399a4bd3-03af-444b-a787-adfdc957d2b3": {
+        "name": "otherAnswer",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 461,
+          "y": -321
+        },
+        "pdfPosition": {
+          "x": 461,
+          "y": 311
+        },
+        "width": 100,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "e282cf4f-873f-4aa1-aead-560d02d2c3fa": {
+        "name": "other2Remains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -307
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 299
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "d5723e1f-9f0e-48be-babb-b34f2e294c32": {
+        "name": "otherAnswer2",
+        "fontSize": 10,
+        "isCheckbox": false,
+        "position": {
+          "x": 461,
+          "y": -309
+        },
+        "pdfPosition": {
+          "x": 461,
+          "y": 299
+        },
+        "width": 100,
+        "shouldWrap": false,
+        "shouldCenter": true
+      },
+      "f342ee2a-f7dc-4dc1-85a7-9956fd5fdcd0": {
+        "name": "clarificationAnswer",
+        "fontSize": 8,
+        "isCheckbox": false,
+        "position": {
+          "x": 37,
+          "y": -163
+        },
+        "pdfPosition": {
+          "x": 37,
+          "y": 155
+        },
+        "width": 538,
+        "shouldWrap": true,
+        "shouldCenter": false
+      },
+      "1a4d73fd-41da-42cb-a992-9e2bec8c1f6f": {
+        "name": "itemsneedingRepair",
+        "fontSize": 8,
+        "isCheckbox": false,
+        "position": {
+          "x": 37,
+          "y": -100
+        },
+        "pdfPosition": {
+          "x": 37,
+          "y": 92
+        },
+        "width": 540,
+        "shouldWrap": true,
+        "shouldCenter": false
+      },
+      "826b4835-8bab-453f-a7b7-7558fb492293": {
+        "name": "windowScreensRemains",
+        "fontSize": 8,
+        "isCheckbox": true,
+        "position": {
+          "x": 451,
+          "y": -612
+        },
+        "pdfPosition": {
+          "x": 451,
+          "y": 604
+        },
+        "width": 8,
+        "shouldWrap": false,
+        "shouldCenter": true
+      }
+    }
+  }
